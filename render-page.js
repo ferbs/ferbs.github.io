@@ -6717,7 +6717,7 @@ function ConsultingSection(_ref) {
       src: "/images/logos/Leap_Motion_logo-light.svg",
       alt: "Leap Motion"
     })
-  }, "Interviewed and selected Leap Motion's initial programmers;", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), "Rescued critical coding projects in the company's early years (NW.js desktop app and Rails back-end projects)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_InfoRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, "Interviewed and selected Leap Motion's initial programmers;", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), "Coded on urgent and at-risk projects in the company's early years (NW.js desktop app and Rails back-end projects)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_InfoRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
     label: react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_InfoRow__WEBPACK_IMPORTED_MODULE_3__["IconForInfoRow"], {
       src: "/images/logos/abbott-small.png",
       alt: "Abbott Laboratories"
